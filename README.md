@@ -102,3 +102,7 @@
 
 ### 8. Итоговая история в Git Graph
 ![08](screenshots/08_final_git_graph.png)
+
+
+## Вывод 
+я освоил базу гита 
