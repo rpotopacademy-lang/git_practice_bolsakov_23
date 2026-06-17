@@ -46,3 +46,28 @@
 - Merge
 - Resolve Conflict
 - Git Graph
+
+
+### 1. Созданный проект в VS Code
+![01](screenshots/01_repository_created.png)
+
+### 2. Инициализированный репозиторий
+![02](screenshots/02_git_initialized.png)
+
+### 3. Первый коммит
+![03](screenshots/03_first_commit.png)
+
+### 4. Репозиторий на GitHub
+![04](screenshots/04_github_repository.png)
+
+### 5. Созданная ветка
+![05](screenshots/05_branch_created.png)
+
+### 6. Результат merge
+![06](screenshots/06_merge_completed.png)
+
+### 7. Выполнение Fetch / Pull
+![07](screenshots/07_fetch_or_pull.png)
+
+### 8. Итоговая история в Git Graph
+![08](screenshots/08_final_git_graph.png)
